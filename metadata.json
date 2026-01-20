@@ -1,0 +1,5 @@
+{
+  "name": "Persona-Consistent Image Studio",
+  "description": "A high-fidelity image generation tool using Gemini Flash and Pro Image models to create portfolio-quality visuals with strict character consistency across different scenes.",
+  "requestFramePermissions": []
+}
